@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: catalog
-          image: ermygut/caralog:v1
+          image: ermygut/caralog:v2
           resources:
             limits:
               memory: "128Mi"
